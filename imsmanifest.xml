@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Na7MIZKaby_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Зорилго зорилтын төсөл</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Зорилго_зорилтын_төсөл_ORG">
+    <organization identifier="Зорилго_зорилтын_төсөл_ORG">
+      <title>Зорилго зорилтын төсөл</title>
+      <item identifier="_2021-2022_зорилгын_төсөл_SCO" isvisible="true" identifierref="__6Na7MIZKaby_course_id_RES">
+        <title>Зорилго зорилтын төсөл</title>
+        <adlcp:masteryscore>66</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Na7MIZKaby_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60vxY6Hc3nA_80_DX1904_DY1904_CX1179_CY853.png" />
+      <file href="mobile/6P04gateRjo_80_DX448_DY448_CX352_CY242.jpg" />
+      <file href="mobile/6lSd4pnBtWy_80_DX424_DY424_CX332_CY242.png" />
+      <file href="story_content/zoomIcon.png" />
+      <file href="mobile/5m1BeWoZprV_80_DX440_DY626_CX440_CY626.png" />
+      <file href="mobile/6nowN73IL2Y_80_DX102_DY102_CX80_CY77.png" />
+      <file href="mobile/6Ol2ujSDLHk_80_DX120_DY120_CX94_CY43.jpg" />
+      <file href="mobile/615gy0llp0G_80_DX600_DY600_CX44_CY37.png" />
+      <file href="mobile/615gy0llp0G_80_DX600_DY600_CX472_CY400.png" />
+      <file href="mobile/5ciAnUw4RAP_80_DX858_DY858_CX675_CY371.png" />
+      <file href="mobile/6D5vYVoBtkz_80_DX184_DY184_CX144_CY97.jpg" />
+      <file href="mobile/6bvm2J6R887_80_DX108_DY108_CX84_CY58.jpg" />
+      <file href="mobile/6JoDQ9mzkRY_80_DX218_DY218_CX135_CY97.jpg" />
+      <file href="mobile/6AfPEfN3UBM_80_DX668_DY668_CX525_CY525.png" />
+      <file href="mobile/6RxyqYcecAN_80_P_0_0_731_1127_DX1090_DY1090_CX555_CY855.jpg" />
+      <file href="mobile/5hBbi4wGjl7_80_DX530_DY530_CX265_CY118.jpg" />
+      <file href="story_content/5vavB7hn93l.js" />
+      <file href="mobile/5nN3wYzZ9Ol_80_DX1040_DY1040_CX818_CY495.png" />
+      <file href="mobile/5mfoRmc1OgJ_80_DX1012_DY1012_CX796_CY285.png" />
+      <file href="mobile/5b1nCCxczhO_80_DX1078_DY1078_CX725_CY376.png" />
+      <file href="mobile/6LYWS6KazxA_80_DX1020_DY1020_CX802_CY454.png" />
+      <file href="mobile/5vavB7hn93l_80_DX468_DY468_CX368_CY275.png" />
+      <file href="story_content/6RcBXY5YuPO.html" />
+      <file href="mobile/6RcBXY5YuPO6gRyjzBQHpp{Width=560, Height=315}Light_80_DX1120_DY1120_CX560_CY315.jpg" />
+      <file href="story_content/5sNWmmDfsIB.js" />
+      <file href="mobile/6lz8d9lvrvp_80_P_0_0_1217_897_DX1920_DY1920_CX1152_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/A190.pdf" />
+      <file href="story_content/external_files/Боловсролын_салбарын_дунд_хугацааны_төлөвлөгөө_2021_2030.pdf" />
+      <file href="story_content/external_files/2021-2024 ОНЫ ХӨГЖЛИЙН ТӨЛӨВЛӨГӨӨ.pdf" />
+      <file href="mobile/Shape5yyHYIYGKUk.jpg" />
+      <file href="mobile/Slide6QI6NSDga9Q.jpg" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/6QLF4ZOodYC.js" />
+      <file href="html5/data/js/6VpKID2CGqT.js" />
+      <file href="html5/data/js/6k6XDHXXRWN.js" />
+      <file href="html5/data/js/6L2Eu1C1ror.js" />
+      <file href="html5/data/js/6EXTXcJ7FDU.js" />
+      <file href="html5/data/js/63YSgmrcGer.js" />
+      <file href="html5/data/js/6I90q9xYGhS.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/three.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
